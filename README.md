@@ -17,7 +17,7 @@ Explore more projects on my [GitHub repositories](https://github.com/tariqulisla
 ## Get in Touch
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/tariqul-islam-rahat)
-- Twitter: [@twitterhandle](https://twitter.com/tariqulislam_)
+- Twitter: [Twitter Profile](https://twitter.com/tariqulislam_)
 
 Feel free to reach out if you have any questions or just want to connect!
 
