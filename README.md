@@ -4,7 +4,6 @@ Explore more projects on my [GitHub repositories](https://github.com/tariqulisla
 
 ## Get in touch
 
-
 - Facebook: [Facebook Profile](https://Facebook.com/tariqulislaamrahat_)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/tariqul-islam-rahat)
 - Twitter: [Twitter Profile](https://twitter.com/tariqulislam_)
