@@ -1,11 +1,6 @@
 Explore more projects on my [GitHub repositories](https://github.com/tariqulislaam?tab=repositories).
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
+<img src="https://github.com/tariqulislaam/tariqulislaam/blob/main/2.png?raw=true" alt="Tariqul Islam,">
 
 ## Get in touch
 
