@@ -1,6 +1,6 @@
 Explore more projects on my [GitHub repositories](https://github.com/tariqulislaam?tab=repositories).
 
-<img src="https://github.com/tariqulislaam/tariqulislaam/blob/main/2.png?raw=true" alt="Tariqul Islam,">
+![Tariqul Islam](https://raw.githubusercontent.com/tariqulislaam/tariqulislaam/f22af2bb1ec56afa6f85eb846b9c19bedebcd169/cover.svg)
 
 ## Get in touch
 
